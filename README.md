@@ -27,7 +27,7 @@
 - **Express/Fastify, Objectionjs**
 - **HTML5, Bootstrap, Pug**
 - **Автоматическое тестирование (Jest)**
-- **Инструменты - VS Code, Git, GitBash, небольшой опыт с WSL**
+- **Инструменты - VS Code, Git, GitBash, WSL**
 
 ---
 
