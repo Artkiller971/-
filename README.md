@@ -23,11 +23,11 @@
 
 ## Навыки
 - **Javascript(es6+), Typescript, SQL**
+- **Работа с реляционными базами данных PostgreSQL, Sqlite3**
 - **Express/Fastify, Objectionjs**
 - **HTML5, Bootstrap, Pug**
 - **Автоматическое тестирование (Jest)**
-- **Git и GitHub**
-- **Инструменты - VS Code, GitBash, небольшой опыт с WSL**
+- **Инструменты - VS Code, Git, GitBash, небольшой опыт с WSL**
 
 ---
 
