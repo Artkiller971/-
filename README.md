@@ -18,7 +18,7 @@
 ## Дополнительное образование
 **Hexlet**\
 **Профессия Node.js-разработчик**\
-[Профиль на Hexlet](https://ru.hexlet.io/u/valerachronosphere)
+[Профиль на Hexlet](https://ru.hexlet.io/u/artkiller)
 
 
 ## Навыки
