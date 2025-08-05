@@ -24,8 +24,8 @@
 ## Навыки
 - **Javascript(es6+), Typescript, SQL**
 - **Работа с реляционными базами данных PostgreSQL, Sqlite3**
-- **Express/Fastify, Objectionjs**
-- **HTML5, Bootstrap, Pug**
+- **React, Express/Fastify, Objectionjs, TypeORM**
+- **HTML5, Bootstrap, Pug, CSS**
 - **Автоматическое тестирование (Jest)**
 - **Инструменты - VS Code, Git, GitBash, WSL**
 
@@ -44,9 +44,9 @@
 ---
 
 ## О себе
-Начинающий backend разработчик. Стремлюсь развиваться в направлении web разработки.\
+Начинающий fullstack разработчик. Стремлюсь развиваться в направлении web разработки.\
 Хочу работать в команде и вносить свой вклад в создание приложений/сервисов.\
-В данный момент изучаю Nest.js, TypeORM
+В данный момент изучаю Nest.js, redux
 
 
 
